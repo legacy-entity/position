@@ -1,0 +1,10 @@
+{
+  "name": "position",
+  "description": "position component system",
+  "version": "0.0.1",
+  "keywords": ["game", "position", "component", "system"],
+  "dependencies": {
+    "entity/vector": "*"
+  },
+  "scripts": ["index.js"]
+}
